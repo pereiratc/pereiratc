@@ -1,5 +1,5 @@
 ## Hello everyone 👋
- <p align="center"> <h3>I am Ferreira Pereira a full Stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+###I am Ferreira Pereira a full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
   </p>
 
