@@ -21,15 +21,16 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://github.com/pereiratc">
+  <a href="https://github.com/pereiratc/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereiratc&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pereiratc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> 
-
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### 🛠 &nbsp;Languages and Tools :
 
+ 
+ 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
