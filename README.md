@@ -1,5 +1,5 @@
 ## Hello everyone 👋
-###I am Ferreira Pereira a full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+###I am Ferreira Pereira a software eng <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
   </p>
 
