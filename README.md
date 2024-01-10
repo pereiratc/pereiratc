@@ -1,9 +1,9 @@
 ## Hello everyone 👋
-###I am Ferreira Pereira a software eng <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+###I am Ferreira Pereira a software eng<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
   </p>
 
-
+🌱 I’m currently learning Kubernets
 <!--
 **pereiratc/pereiratc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
