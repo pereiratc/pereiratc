@@ -3,7 +3,7 @@
  
   </p>
 
-🌱 I’m currently learning Kubernets
+🌱 I’m currently learning Kubernets orquestation!
 <!--
 **pereiratc/pereiratc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
